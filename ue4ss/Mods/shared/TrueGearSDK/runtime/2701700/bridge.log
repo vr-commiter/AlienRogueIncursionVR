@@ -1,0 +1,340 @@
+2026-08-24 15:08:15.347 bridge started
+2026-08-24 15:08:19.761 monitoring game process 55460
+2026-08-24 15:08:19.784 websocket connected
+2026-08-24 15:08:19.951 application registered
+2026-08-24 15:08:24.915 game process exited
+2026-08-24 15:08:24.943 websocket disconnected
+2026-08-24 15:19:59.023 bridge started
+2026-08-24 15:20:08.999 monitoring game process 50156
+2026-08-24 15:20:09.274 websocket connected
+2026-08-24 15:20:09.480 application registered
+2026-08-24 15:20:31.854 application registered
+2026-08-24 15:27:19.537 game process exited
+2026-08-24 15:27:19.623 websocket disconnected
+2026-08-24 15:58:52.295 bridge started
+2026-08-24 15:58:53.349 monitoring game process 53992
+2026-08-24 15:58:53.395 websocket connected
+2026-08-24 15:58:53.421 application registered
+2026-08-24 15:59:04.289 game process exited
+2026-08-24 15:59:04.312 websocket disconnected
+2026-08-24 15:59:51.191 bridge started
+2026-08-24 15:59:53.560 monitoring game process 40004
+2026-08-24 15:59:53.585 websocket connected
+2026-08-24 15:59:53.603 application registered
+2026-08-24 16:00:00.862 game process exited
+2026-08-24 16:00:00.888 websocket disconnected
+2026-08-24 16:02:06.057 bridge started
+2026-08-24 16:02:07.297 monitoring game process 58544
+2026-08-24 16:02:07.333 websocket connected
+2026-08-24 16:02:07.350 application registered
+2026-08-24 16:12:06.077 idle timeout
+2026-08-24 16:12:06.116 websocket disconnected
+2026-08-24 16:23:09.629 bridge started
+2026-08-24 16:23:11.388 monitoring game process 18980
+2026-08-24 16:23:11.422 websocket connected
+2026-08-24 16:23:11.442 application registered
+2026-08-24 16:23:17.137 game process exited
+2026-08-24 16:23:17.173 websocket disconnected
+2026-08-24 16:23:58.073 bridge started
+2026-08-24 16:24:01.061 monitoring game process 55484
+2026-08-24 16:24:01.090 websocket connected
+2026-08-24 16:24:01.106 application registered
+2026-08-24 16:24:03.223 game process exited
+2026-08-24 16:24:03.262 websocket disconnected
+2026-08-24 17:23:02.763 bridge started
+2026-08-24 17:23:06.023 monitoring game process 51312
+2026-08-24 17:23:06.051 websocket connected
+2026-08-24 17:23:06.068 application registered
+2026-08-24 17:25:06.436 application registered
+2026-08-24 17:28:49.690 application registered
+2026-08-24 17:29:24.762 application registered
+2026-08-24 17:30:43.964 application registered
+2026-08-24 17:37:46.722 application registered
+2026-08-24 17:39:59.858 game process exited
+2026-08-24 17:39:59.896 websocket disconnected
+2026-08-24 17:41:33.449 bridge started
+2026-08-24 17:41:33.629 monitoring game process 28472
+2026-08-24 17:41:33.678 websocket connected
+2026-08-24 17:41:33.698 application registered
+2026-08-24 17:42:24.244 application registered
+2026-08-24 17:42:55.984 application registered
+2026-08-24 17:47:22.333 game process exited
+2026-08-24 17:47:22.358 websocket disconnected
+2026-08-24 17:47:38.306 bridge started
+2026-08-24 17:47:42.377 monitoring game process 27584
+2026-08-24 17:47:42.404 websocket connected
+2026-08-24 17:47:42.418 application registered
+2026-08-24 17:48:04.837 application registered
+2026-08-24 17:48:26.722 game process exited
+2026-08-24 17:48:26.760 websocket disconnected
+2026-08-24 17:53:43.675 bridge started
+2026-08-24 17:53:44.605 monitoring game process 51232
+2026-08-24 17:53:44.743 websocket connected
+2026-08-24 17:53:44.921 application registered
+2026-08-24 17:53:51.977 game process exited
+2026-08-24 17:53:52.003 websocket disconnected
+2026-08-24 17:56:01.458 bridge started
+2026-08-24 17:56:02.019 monitoring game process 58760
+2026-08-24 17:56:02.055 websocket connected
+2026-08-24 17:56:02.070 application registered
+2026-08-24 17:56:09.779 game process exited
+2026-08-24 17:56:09.815 websocket disconnected
+2026-08-24 18:06:11.407 bridge started
+2026-08-24 18:06:14.347 monitoring game process 54120
+2026-08-24 18:06:14.371 websocket connected
+2026-08-24 18:06:14.393 application registered
+2026-08-24 18:07:04.148 application registered
+2026-08-24 18:14:53.306 game process exited
+2026-08-24 18:14:53.329 websocket disconnected
+2026-08-25 09:28:27.233 bridge started
+2026-08-25 09:28:27.962 monitoring game process 47512
+2026-08-25 09:28:28.081 websocket connected
+2026-08-25 09:28:28.220 application registered
+2026-08-25 09:29:51.046 application registered
+2026-08-25 09:30:11.914 application registered
+2026-08-25 09:40:11.922 idle timeout
+2026-08-25 09:40:11.945 websocket disconnected
+2026-08-25 09:56:01.804 bridge started
+2026-08-25 09:56:06.144 monitoring game process 58096
+2026-08-25 09:56:06.169 websocket connected
+2026-08-25 09:56:06.183 application registered
+2026-08-25 09:56:40.738 application registered
+2026-08-25 09:56:44.430 application registered
+2026-08-25 09:56:48.847 application registered
+2026-08-25 09:57:03.349 application registered
+2026-08-25 09:57:53.014 application registered
+2026-08-25 09:57:59.697 application registered
+2026-08-25 10:05:58.703 game process exited
+2026-08-25 10:05:58.738 websocket disconnected
+2026-08-25 10:06:29.145 bridge started
+2026-08-25 10:06:33.005 monitoring game process 66160
+2026-08-25 10:06:33.038 websocket connected
+2026-08-25 10:06:33.055 application registered
+2026-08-25 10:07:20.795 application registered
+2026-08-25 10:08:40.390 game process exited
+2026-08-25 10:08:40.413 websocket disconnected
+2026-08-25 10:13:26.173 bridge started
+2026-08-25 10:13:29.675 monitoring game process 53592
+2026-08-25 10:13:29.714 websocket connected
+2026-08-25 10:13:29.730 application registered
+2026-08-25 10:14:13.714 application registered
+2026-08-25 10:20:54.323 application registered
+2026-08-25 10:22:42.423 game process exited
+2026-08-25 10:22:42.461 websocket disconnected
+2026-08-25 10:25:07.289 bridge started
+2026-08-25 10:25:07.950 monitoring game process 63340
+2026-08-25 10:25:07.983 websocket connected
+2026-08-25 10:25:08.004 application registered
+2026-08-25 10:25:54.983 application registered
+2026-08-25 10:28:13.843 game process exited
+2026-08-25 10:28:13.883 websocket disconnected
+2026-08-25 10:35:04.789 bridge started
+2026-08-25 10:35:06.074 monitoring game process 58688
+2026-08-25 10:35:06.115 websocket connected
+2026-08-25 10:35:06.137 application registered
+2026-08-25 10:36:04.876 game process exited
+2026-08-25 10:36:04.908 websocket disconnected
+2026-08-25 10:36:15.996 bridge started
+2026-08-25 10:36:17.920 monitoring game process 65864
+2026-08-25 10:36:17.963 websocket connected
+2026-08-25 10:36:17.983 application registered
+2026-08-25 10:37:04.466 application registered
+2026-08-25 10:43:28.686 game process exited
+2026-08-25 10:43:28.723 websocket disconnected
+2026-08-25 11:03:47.551 bridge started
+2026-08-25 11:03:50.589 monitoring game process 65624
+2026-08-25 11:03:50.618 websocket connected
+2026-08-25 11:03:50.631 application registered
+2026-08-25 11:04:45.497 application registered
+2026-08-25 11:07:03.156 game process exited
+2026-08-25 11:07:03.195 websocket disconnected
+2026-08-25 11:36:36.930 bridge started
+2026-08-25 11:36:39.784 monitoring game process 32444
+2026-08-25 11:36:39.811 websocket connected
+2026-08-25 11:36:39.826 application registered
+2026-08-25 11:37:05.097 game process exited
+2026-08-25 11:37:05.129 websocket disconnected
+2026-08-25 11:37:16.371 bridge started
+2026-08-25 11:37:17.992 monitoring game process 64964
+2026-08-25 11:37:18.033 websocket connected
+2026-08-25 11:37:18.059 application registered
+2026-08-25 11:38:15.020 application registered
+2026-08-25 11:48:15.036 idle timeout
+2026-08-25 11:48:15.076 websocket disconnected
+2026-08-25 14:02:30.234 bridge started
+2026-08-25 14:02:31.897 monitoring game process 25284
+2026-08-25 14:02:32.046 websocket connected
+2026-08-25 14:02:32.222 application registered
+2026-08-25 14:03:23.899 application registered
+2026-08-25 14:13:23.902 idle timeout
+2026-08-25 14:13:23.941 websocket disconnected
+2026-08-25 15:21:25.856 bridge started
+2026-08-25 15:21:26.515 monitoring game process 41244
+2026-08-25 15:21:26.577 websocket connected
+2026-08-25 15:21:26.599 application registered
+2026-08-25 15:22:15.811 application registered
+2026-08-25 15:22:19.131 application registered
+2026-08-25 15:31:09.042 game process exited
+2026-08-25 15:31:09.068 websocket disconnected
+2026-08-25 15:45:10.870 bridge started
+2026-08-25 15:45:13.374 monitoring game process 47892
+2026-08-25 15:45:13.515 websocket connected
+2026-08-25 15:45:13.688 application registered
+2026-08-25 15:45:52.010 application registered
+2026-08-25 15:45:58.499 application registered
+2026-08-25 15:55:58.510 idle timeout
+2026-08-25 15:55:58.551 websocket disconnected
+2026-08-25 16:30:49.076 bridge started
+2026-08-25 16:30:51.830 monitoring game process 52492
+2026-08-25 16:30:51.859 websocket connected
+2026-08-25 16:30:51.874 application registered
+2026-08-25 16:31:35.069 application registered
+2026-08-25 16:38:56.868 game process exited
+2026-08-25 16:38:56.894 websocket disconnected
+2026-08-26 09:00:52.022 bridge started
+2026-08-26 09:00:53.782 monitoring game process 52872
+2026-08-26 09:00:53.859 websocket connected
+2026-08-26 09:00:53.931 application registered
+2026-08-26 09:01:38.318 application registered
+2026-08-26 09:07:01.536 game process exited
+2026-08-26 09:07:01.572 websocket disconnected
+2026-08-26 09:08:30.769 bridge started
+2026-08-26 09:08:33.355 monitoring game process 55552
+2026-08-26 09:08:33.389 websocket connected
+2026-08-26 09:08:33.409 application registered
+2026-08-26 09:09:18.540 application registered
+2026-08-26 09:19:18.561 idle timeout
+2026-08-26 09:19:18.600 websocket disconnected
+2026-08-26 09:42:51.534 bridge started
+2026-08-26 09:42:53.419 monitoring game process 55552
+2026-08-26 09:42:53.448 websocket connected
+2026-08-26 09:42:53.467 application registered
+2026-08-26 09:46:28.154 application registered
+2026-08-26 09:50:59.825 application registered
+2026-08-26 09:51:12.717 application registered
+2026-08-26 09:59:28.397 game process exited
+2026-08-26 09:59:28.436 websocket disconnected
+2026-08-26 10:00:20.667 bridge started
+2026-08-26 10:00:21.838 monitoring game process 47660
+2026-08-26 10:00:21.877 websocket connected
+2026-08-26 10:00:21.903 application registered
+2026-08-26 10:01:24.812 application registered
+2026-08-26 10:07:11.750 application registered
+2026-08-26 10:17:11.767 idle timeout
+2026-08-26 10:17:11.793 websocket disconnected
+2026-08-26 10:32:08.350 bridge started
+2026-08-26 10:32:11.571 monitoring game process 52276
+2026-08-26 10:32:11.604 websocket connected
+2026-08-26 10:32:11.622 application registered
+2026-08-26 10:33:21.234 application registered
+2026-08-26 10:43:21.234 idle timeout
+2026-08-26 10:43:21.272 websocket disconnected
+2026-08-26 11:00:55.053 bridge started
+2026-08-26 11:00:56.982 monitoring game process 52276
+2026-08-26 11:00:57.134 websocket connected
+2026-08-26 11:00:57.306 application registered
+2026-08-26 11:01:59.279 game process exited
+2026-08-26 11:01:59.303 websocket disconnected
+2026-08-26 11:09:51.166 bridge started
+2026-08-26 11:09:55.005 monitoring game process 69004
+2026-08-26 11:09:55.041 websocket connected
+2026-08-26 11:09:55.065 application registered
+2026-08-26 11:09:57.669 game process exited
+2026-08-26 11:09:57.705 websocket disconnected
+2026-08-26 11:10:09.619 bridge started
+2026-08-26 11:10:10.945 monitoring game process 46396
+2026-08-26 11:10:10.992 websocket connected
+2026-08-26 11:10:11.018 application registered
+2026-08-26 11:10:48.105 application registered
+2026-08-26 11:20:32.056 application registered
+2026-08-26 11:26:59.568 application registered
+2026-08-26 11:29:35.189 application registered
+2026-08-26 11:33:35.280 game process exited
+2026-08-26 11:33:35.312 websocket disconnected
+2026-08-26 15:10:02.094 bridge started
+2026-08-26 15:10:05.982 monitoring game process 35848
+2026-08-26 15:10:06.126 websocket connected
+2026-08-26 15:10:06.295 application registered
+2026-08-26 15:11:01.257 game process exited
+2026-08-26 15:11:01.283 websocket disconnected
+2026-08-26 16:36:27.344 bridge started
+2026-08-26 16:36:27.756 monitoring game process 43164
+2026-08-26 16:36:27.835 websocket connected
+2026-08-26 16:36:27.856 application registered
+2026-08-26 16:37:09.036 application registered
+2026-08-26 16:43:01.091 game process exited
+2026-08-26 16:43:01.126 websocket disconnected
+2026-08-27 09:32:39.462 bridge started
+2026-08-27 09:32:41.863 monitoring game process 49512
+2026-08-27 09:32:41.903 websocket connected
+2026-08-27 09:32:41.925 application registered
+2026-08-27 09:34:02.295 application registered
+2026-08-27 09:43:31.440 game process exited
+2026-08-27 09:43:31.472 websocket disconnected
+2026-08-27 10:00:14.518 bridge started
+2026-08-27 10:00:18.299 monitoring game process 81124
+2026-08-27 10:00:18.334 websocket connected
+2026-08-27 10:00:18.350 application registered
+2026-08-27 10:00:52.523 application registered
+2026-08-27 10:00:56.574 application registered
+2026-08-27 10:01:04.157 application registered
+2026-08-27 10:01:44.167 application registered
+2026-08-27 10:11:44.181 idle timeout
+2026-08-27 10:11:44.219 websocket disconnected
+2026-08-27 10:12:51.152 bridge started
+2026-08-27 10:12:54.006 monitoring game process 81124
+2026-08-27 10:12:54.042 websocket connected
+2026-08-27 10:12:54.058 application registered
+2026-08-27 10:15:23.539 application registered
+2026-08-27 10:28:40.979 game process exited
+2026-08-27 10:28:41.006 websocket disconnected
+2026-08-27 10:43:43.226 bridge started
+2026-08-27 10:43:43.841 monitoring game process 76224
+2026-08-27 10:43:43.906 websocket connected
+2026-08-27 10:43:43.929 application registered
+2026-08-27 10:44:22.212 application registered
+2026-08-27 10:54:22.214 idle timeout
+2026-08-27 10:54:22.258 websocket disconnected
+2026-08-27 13:36:42.547 bridge started
+2026-08-27 13:36:43.876 monitoring game process 81080
+2026-08-27 13:36:44.041 websocket connected
+2026-08-27 13:36:44.248 application registered
+2026-08-27 13:37:46.514 application registered
+2026-08-27 13:47:46.514 idle timeout
+2026-08-27 13:47:46.538 websocket disconnected
+2026-08-27 14:12:56.207 bridge started
+2026-08-27 14:12:59.946 monitoring game process 75388
+2026-08-27 14:12:59.984 websocket connected
+2026-08-27 14:13:00.001 application registered
+2026-08-27 14:13:42.526 application registered
+2026-08-27 14:23:42.534 idle timeout
+2026-08-27 14:23:42.559 websocket disconnected
+2026-08-27 14:25:44.572 bridge started
+2026-08-27 14:25:47.096 monitoring game process 75388
+2026-08-27 14:25:47.126 websocket connected
+2026-08-27 14:25:47.141 application registered
+2026-08-27 14:29:08.066 application registered
+2026-08-27 14:29:36.396 application registered
+2026-08-27 14:31:59.999 game process exited
+2026-08-27 14:32:00.038 websocket disconnected
+2026-08-27 14:33:24.691 bridge started
+2026-08-27 14:33:29.321 monitoring game process 83708
+2026-08-27 14:33:29.350 websocket connected
+2026-08-27 14:33:29.364 application registered
+2026-08-27 14:34:09.478 application registered
+2026-08-27 14:36:52.244 application registered
+2026-08-27 14:39:43.806 application registered
+2026-08-27 14:40:59.129 application registered
+2026-08-27 14:45:53.104 application registered
+2026-08-27 14:50:03.933 application registered
+2026-08-27 14:50:41.773 application registered
+2026-08-27 15:07:01.223 application registered
+2026-08-27 15:16:41.875 game process exited
+2026-08-27 15:16:41.911 websocket disconnected
+2026-08-27 15:26:02.849 bridge started
+2026-08-27 15:26:07.280 monitoring game process 81416
+2026-08-27 15:26:07.310 websocket connected
+2026-08-27 15:26:07.328 application registered
+2026-08-27 15:26:42.717 application registered
+2026-08-27 15:35:36.720 game process exited
+2026-08-27 15:35:36.758 websocket disconnected
